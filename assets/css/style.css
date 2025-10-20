@@ -302,6 +302,9 @@ header {
 
 /*main*/
 /*hero*/
+#hero .navlink{
+    margin-right:15px;
+}
 .badge-hero {
     background: transparent;
     color: #8C969A;
